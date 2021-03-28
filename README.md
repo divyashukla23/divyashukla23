@@ -5,9 +5,8 @@
 <p align="center">
   <samp>
 A pre final year student of Computer Science and Engineering from SRMGPC (Lucknow,Uttar Pradesh India) affiliated to Abdul Kalam Technical University Lucknow.
-Technical background- My tech stack is majorly focused in Web development (HTML5, CSS3 , JavaScript, React JS,Python ) and i have also explored AI and ML (introductory level). I belive in promoting the technical culture and learning and have been active in various technical communities like Dcoders Club, The Girl Code , Microsoft Learn SAs , and GeeksforGeeeks. Feel free to reach out to me for project collaborations.
+Technical background- My tech stack is majorly focused in Web development (HTML5, CSS3 , JavaScript, React JS,Python ) and i have also explored AI and ML (introductory level). I belive in promoting the technical culture and learning and have been active in various technical communities like Dcoders Club, The Girl Code , Microsoft Learn SAs , and GeeksforGeeeks. <br>
   </samp><br><br>
-  Details:
 - 📚 B.TECH (2018-2022) <a href="http://srmcem.ac.in/">@SRMGPC</a> Lucknow <br>
 - ⚡ MAJOR-💻COMPUTER SCIENCE & Engineering  <br>
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong> explore the field of technology. </strong>  <br>
