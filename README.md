@@ -4,8 +4,7 @@
 <h2 align="center"> 👨‍💻 About Me </h2>
 <p align="center">
   <samp>
-A pre final year student of Computer Science and Engineering from SRMGPC (Lucknow,Uttar Pradesh India) affiliated to Abdul Kalam Technical University Lucknow.
-Technical background- My tech stack is majorly focused in Web development (HTML5, CSS3 , JavaScript, React JS,Python ) and i have also explored AI and ML (introductory level). I belive in promoting the technical culture and learning and have been active in various technical communities like Dcoders Club, The Girl Code , Microsoft Learn SAs , and GeeksforGeeeks. <br>
+I am a software engineer in Thoughtworks <br>
   </samp><br><br>
 - 📚 B.TECH (2018-2022) <a href="http://srmcem.ac.in/">@SRMGPC</a> Lucknow <br>
 - ⚡ MAJOR-💻COMPUTER SCIENCE & Engineering  <br>
