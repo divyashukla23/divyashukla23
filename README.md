@@ -6,11 +6,11 @@
   <samp>
 I am a software engineer in Thoughtworks <br>
   </samp><br><br>
-- 📚 B.TECH (2018-2022) <a href="http://srmcem.ac.in/">@SRMGPC</a> Lucknow <br>
+- 📚 B.TECH <a href="http://srmcem.ac.in/">@SRMGPC</a> Lucknow <br>
 - ⚡ MAJOR-💻COMPUTER SCIENCE & Engineering  <br>
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong> explore the field of technology. </strong>  <br>
 - ⚡ I love meeting new people and making connections:full_moon_with_face: Feel free to reach out to me for project collaborations.  <br>
-- 📦 Open-source events -> <a href="https://gssoc.girlscript.tech/index.html">GSSOC'21</a>  <br>
+- 📦 Open-source events -> <a href="https://gssoc.girlscript.tech/index.html">GSSOC'21, GSSOC'23</a>  <br>
 <h2 align="center">📫 Reach out to me on</h2> 
 <p align="center">
  <a href="mailto:divyashukla20993@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
