@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
-<img src="https://i.imgur.com/SJSkI0p.png">
+<!-- <img src="https://i.imgur.com/SJSkI0p.png"> -->
 
 <h2 align="center"> 👨‍💻 About Me </h2>
 <p align="center">
