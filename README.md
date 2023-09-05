@@ -4,10 +4,9 @@
 <h2 align="center"> 👨‍💻 About Me </h2>
 <p align="center">
   <samp>
-I am a software engineer in Thoughtworks <br>
-  </samp><br><br>
-- 📚 B.TECH <a href="http://srmcem.ac.in/">@SRMGPC</a> Lucknow <br>
-- ⚡ MAJOR-💻COMPUTER SCIENCE & Engineering  <br>
+I am a software engineer <br>
+  </samp><br><br> 
+- 📚 B.TECH  ⚡ MAJOR-💻COMPUTER SCIENCE & Engineering  <br>
 - 🥅 Goals: to <strong>learn new technologies</strong> and <strong> explore the field of technology. </strong>  <br>
 - ⚡ I love meeting new people and making connections:full_moon_with_face: Feel free to reach out to me for project collaborations.  <br>
 - 📦 Open-source events -> <a href="https://gssoc.girlscript.tech/index.html">GSSOC'21, GSSOC'23</a>  <br>
