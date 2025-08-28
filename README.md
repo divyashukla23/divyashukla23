@@ -7,8 +7,6 @@
 I am a software engineer <br>
   </samp><br><br> 
 - 📚 B.TECH  ⚡ MAJOR-💻COMPUTER SCIENCE & Engineering  <br>
-- 🥅 Goals: to <strong>learn new technologies</strong> and <strong> explore the field of technology. </strong>  <br>
-- ⚡ I love meeting new people and making connections:full_moon_with_face: Feel free to reach out to me for project collaborations.  <br>
 - 📦 Open-source events -> <a href="https://gssoc.girlscript.tech/index.html">GSSOC'21, GSSOC'23</a>  <br>
 
 [![An image of @divyashukla23's Holopin badges, which is a link to view their full Holopin profile] (https://holopin.me/divyashukla23)](https://holopin.io/@divyashukla23)
