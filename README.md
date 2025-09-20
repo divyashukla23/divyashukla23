@@ -33,8 +33,7 @@
 </p>
 
 - 📜 Patent Holder: **AI-Based Answer Sheet Evaluation System**  
-- Published in [SLIET Patent Information NIRF 2023](http://sliet.ac.in/wp-content/uploads/2023/01/7.-SLIET-Patent-Information-NIRF-2023.pdf)  
-- Application No: **IN202111034011**
+- Published in [Approved by Gov. of India (IN202111034011) | SLIET Patent Information NIRF 2023](http://sliet.ac.in/wp-content/uploads/2023/01/7.-SLIET-Patent-Information-NIRF-2023.pdf)  
 
 
 ---
