@@ -1,8 +1,5 @@
 <h1 align="center">✨ Hey there, I'm Divya 👋</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/SJSkI0p.png" width="300px" alt="Welcome Banner"/>
-</p>
 
 ---
 
@@ -16,16 +13,16 @@
       <a href="https://gssoc.girlscript.tech/index.html">GSSOC '21</a>, 
       <a href="https://gssoc.girlscript.tech/index.html">GSSOC '23</a> <br>
     - 🛠️ Skilled in <b>Python | C++ | Kubernetes | AWS | Full Stack Development</b> <br>
-    - 💡 Love mentoring, designing solutions & simplifying complex systems <br>
+    - 💡 Passionate about mentoring, solution design & simplifying complex systems <br>
   </samp>
 </p>
 
 ---
 
-<h2 align="center">🏅 Badges & Achievements</h2>
+<h2 align="center">🏅 Holopin Badges</h2>
 <p align="center">
-  <a href="https://holopin.io/@divyashukla23">
-    <img src="https://holopin.me/divyashukla23" alt="@divyashukla23's Holopin board" />
+  <a href="https://www.holopin.io/@divyashukla23#badges" target="_blank">
+    <img src="https://holopin.me/divyashukla23" alt="@divyashukla23's Holopin Badges" />
   </a>
 </p>
 
@@ -61,7 +58,3 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<h3 align="center">✨ Fun Fact: I love collecting goodies from tech events & open-source conferences! ✨</h3>
