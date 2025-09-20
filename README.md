@@ -1,9 +1,5 @@
 <h1 align="center">✨ Hey there, I'm Divya 👋</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/SJSkI0p.png" width="300px" alt="Welcome Banner"/>
-</p>
-
 ---
 
 <h2 align="center"> 👩‍💻 About Me </h2>
