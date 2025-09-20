@@ -1,5 +1,8 @@
 <h1 align="center">✨ Hey there, I'm Divya 👋</h1>
 
+<p align="center">
+  <img src="https://i.imgur.com/SJSkI0p.png" width="300px" alt="Welcome Banner"/>
+</p>
 
 ---
 
@@ -28,6 +31,37 @@
 
 ---
 
+<h2 align="center">🧭 Quick Facts</h2>
+<ul>
+  <li>⚡ 3+ years of professional experience in software engineering</li>
+  <li>🎤 Love sharing knowledge through talks, meetups & mentoring</li>
+  <li>🌍 Exploring opportunities to contribute to <b>global open-source communities</b></li>
+  <li>📚 Lifelong learner: currently diving deeper into <b>DevOps & Cloud Architecture</b></li>
+</ul>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/divyashukla23/your-cool-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashukla23&repo=your-cool-project&theme=radical" />
+  </a>
+  <a href="https://github.com/divyashukla23/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashukla23&repo=another-project&theme=radical" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🎤 Talks & Conferences</h2>
+<ul>
+  <li>💬 Speaker @ <b>GSSOC</b> (Open Source Contribution Sessions)</li>
+  <li>📢 Active participant in <b>IndiaFOSS & Open Source India</b></li>
+  <li>🎙️ Looking forward to more global CFPs (with travel grants ✈️)</li>
+</ul>
+
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,11 +74,23 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyashukla23&show_icons=true&theme=radical" alt="Divya's GitHub stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyashukla23&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyashukla23&theme=radical" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+<h2 align="center">🌱 Currently Learning</h2>
+<ul>
+  <li>📌 Advanced <b>Kubernetes & Cloud-native patterns</b></li>
+  <li>📌 System Design for large-scale platforms</li>
+  <li>📌 Exploring <b>AI + DevOps</b> intersections</li>
+</ul>
 
 ---
 
