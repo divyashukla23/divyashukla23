@@ -65,10 +65,16 @@
 
 ---
 
-<h2 align="center">🏅 Holopin</h2>
+<h2 align="center">🏅 Holopin Badges</h2>
 <p align="center">
-  <a href="https://www.holopin.io/@divyashukla23#badges" target="_blank" rel="noopener">
-    <img src="https://holopin.me/divyashukla23" alt="@divyashukla23 Holopin Badges" />
+  <a href="https://holopin.io/@divyashukla23">
+    <img src="https://holopin.me/divyashukla23/cln9vooae511300fjqcfag24y1" width="100" />
+  </a>
+  <a href="https://holopin.io/@divyashukla23">
+    <img src="https://holopin.me/divyashukla23/clnebpafu32510fjqzlhly2e8" width="100" />
+  </a>
+  <a href="https://holopin.io/@divyashukla23">
+    <img src="https://holopin.me/divyashukla23/clnebpafu32510fjqzlhly2e8" width="100" />
   </a>
 </p>
 
@@ -101,3 +107,5 @@ timeline
     <img src="https://img.shields.io/badge/Holopin-Badges-555?style=for-the-badge" />
   </a>
 </p>
+```
+
