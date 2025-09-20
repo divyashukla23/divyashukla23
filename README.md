@@ -18,20 +18,12 @@
 
 ---
 
-<h2 align="center">🏅 Holopin Badges</h2>
-<p align="center">
-  <a href="https://www.holopin.io/@divyashukla23#badges" target="_blank">
-    <img src="https://holopin.me/divyashukla23" alt="@divyashukla23's Holopin Badges" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">🧭 Quick Facts</h2>
 <ul>
   <li>⚡ 3+ years of professional experience in software engineering</li>
   <li>🎤 Love sharing knowledge through talks, meetups & mentoring</li>
-  <li>🌍 Exploring opportunities to contribute to <b>global open-source communities</b></li>
   <li>📚 Lifelong learner: currently diving deeper into <b>DevOps & Cloud Architecture</b></li>
 </ul>
 
@@ -47,14 +39,6 @@
   </a>
 </p>
 
----
-
-<h2 align="center">🎤 Talks & Conferences</h2>
-<ul>
-  <li>💬 Speaker @ <b>GSSOC</b> (Open Source Contribution Sessions)</li>
-  <li>📢 Active participant in <b>IndiaFOSS & Open Source India</b></li>
-  <li>🎙️ Looking forward to more global CFPs (with travel grants ✈️)</li>
-</ul>
 
 ---
 
@@ -80,6 +64,15 @@
 </p>
 
 ---
+
+
+<h2 align="center">🏅 Holopin Badges</h2>
+<p align="center">
+  <a href="https://www.holopin.io/@divyashukla23#badges" target="_blank">
+    <img src="https://holopin.me/divyashukla23" alt="@divyashukla23's Holopin Badges" />
+  </a>
+</p>
+-------
 
 <h2 align="center">🌱 Currently Learning</h2>
 <ul>
