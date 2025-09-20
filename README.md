@@ -13,22 +13,6 @@
 
 ---
 
-
----
-
-<h2 align="center">🔎 Quick Highlights</h2>
-<ul>
-  <li>📌 <b>Thoughtworks</b> — Technical Lead for Cloud & Data Platform Ops (Global Biopharma / IDMC)</li>
-  <li>⚙️ Designed & standardized REST APIs (OpenAPI/Swagger) for domain-wide data access (10K+ users)</li>
-  <li>☁️ Built environment-aware infra using Terraform, AWS Lambda, SSM, MSK, and Transit Gateway patterns</li>
-  <li>🛡️ Integrated governance & discovery with Starburst, Ranger & Informatica for secure metadata access</li>
-  <li>🏆 Patent holder: <i>AI-Based Answer Sheet Evaluation System</i> (IN202111034011)</li>
-  <li>🌱 Active community leader: Chapter President (The Girl Code UP), Microsoft Learn Student Ambassador, Bangalore Community Head @ ThoughtWorks</li>
-</ul>
-
-
----
-
 <h2 align="center">🌍 Community, Volunteering & Impact</h2>
 
 ### 🎓 Programs & Mentorship
