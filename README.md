@@ -16,7 +16,7 @@
 <h2 align="center">🌍 Community, Volunteering & Impact</h2>
 
 ### 🎓 Programs & Mentorship
-- 🎓 **Microsoft Learn Student Ambassador** (2021–Present) — empowering peers in cloud & coding  
+- 🎓 **Microsoft Learn Student Ambassador** (2021–2024) — empowering peers in cloud & coding  
 - 👩‍🏫 **Mentor @ GSSOC '21 & '23** — guided contributors in open-source development  
 - 🤝 **Mentor @ GirlScript Summer of Code (SWoC '21)** — supported contributors with PRs, reviews & roadmaps  
 - 🌱 **Mentor @ The Girl Code NGO** — advocating women in tech through free workshops  
