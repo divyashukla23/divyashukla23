@@ -12,6 +12,22 @@
 </p>
 
 ---
+---
+
+<h2 align="center">🤝 Book a 1:1 Consultation</h2>
+
+<p align="center">
+  🚀 Need guidance on <b>Software Engineering, DevOps, System Design, Open Source, or Career Growth</b>?  
+  Let’s connect for a personalized 1:1 session where I’ll simplify complex topics and share actionable advice.
+</p>
+
+<p align="center">
+  <a href="https://topmate.io/divya_shukla" target="_blank">
+    <img src="https://img.shields.io/badge/Book%20a%201:1%20on-Topmate-1D9BF0?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Topmate Link" />
+  </a>
+</p>
+
+---
 
 <h2 align="center">🌍 Community, Volunteering & Impact</h2>
 
