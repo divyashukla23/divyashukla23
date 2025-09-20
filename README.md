@@ -1,9 +1,6 @@
 <!-- README.md for GitHub profile -->
 
 <h1 align="center">✨ Hey — I’m Divya Shukla 👋</h1>
-<p align="center">
-  <img src="https://i.imgur.com/SJSkI0p.png" width="320px" alt="Welcome Banner"/>
-</p>
 
 ---
 
