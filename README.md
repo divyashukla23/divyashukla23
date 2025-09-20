@@ -32,8 +32,9 @@
   <img src="https://img.shields.io/badge/Patent-AI%20Based%20Answer%20Sheet%20Evaluation%20System-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
-- 📜 Patent Holder: **AI-Based Answer Sheet Evaluation System**  
-- Published in [Approved by Gov. of India (IN202111034011) | SLIET Patent Information NIRF 2023](http://sliet.ac.in/wp-content/uploads/2023/01/7.-SLIET-Patent-Information-NIRF-2023.pdf)  
+- 📜 Patent Holder: **AI-Based Answer Sheet Evaluation System**
+- Approved by Gov. of India (IN202111034011)
+- Published in [SLIET Patent Information NIRF 2023](http://sliet.ac.in/wp-content/uploads/2023/01/7.-SLIET-Patent-Information-NIRF-2023.pdf)  
 
 
 ---
