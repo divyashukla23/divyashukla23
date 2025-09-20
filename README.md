@@ -63,49 +63,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyashukla23&theme=radical" />
 </p>
 
----
 
-<h2 align="center">🏅 Holopin Badges</h2>
-<p align="center">
-  <a href="https://holopin.io/@divyashukla23">
-    <img src="https://holopin.me/divyashukla23/cln9vooae511300fjqcfag24y1" width="100" />
-  </a>
-  <a href="https://holopin.io/@divyashukla23">
-    <img src="https://holopin.me/divyashukla23/clnebpafu32510fjqzlhly2e8" width="100" />
-  </a>
-  <a href="https://holopin.io/@divyashukla23">
-    <img src="https://holopin.me/divyashukla23/clnebpafu32510fjqzlhly2e8" width="100" />
-  </a>
-</p>
-
-
-<h2 align="center">✨ Timeline Snapshot</h2>
-
-```mermaid
-timeline
-    title Community & Leadership Journey
-    2020 : GeeksforGeeks SRMGPC Chapter Lead
-    2020 : The Girl Code Chapter Coordinator
-    2020 : Mentor @ D'Coders Club
-    2021 : Microsoft Learn Student Ambassador
-    2021 : Mentor @ GirlScript Summer of Code
-    2021 : Mentor @ LetsGrowMore SWOC
-    2021 : Mentor @ GSSOC '21
-    2023 : Mentor @ GSSOC '23
-    2023 : Patent Granted (AI-Based Answer Sheet Evaluation System)
-<h2 align="center">📫 Connect</h2>
-<p align="center">
-  <a href="mailto:divyashukla20993@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/divyashukla23/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.holopin.io/@divyashukla23#badges" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Holopin-Badges-555?style=for-the-badge" />
-  </a>
-</p>
 ```
 
