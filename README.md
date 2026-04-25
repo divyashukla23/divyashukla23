@@ -1,11 +1,4 @@
-<!-- README.md for GitHub profile -->
 
-<h1 align="center">✨ Hey — I’m Divya Shukla 👋</h1>
-
----
-
-<h2 align="center">👩‍💻 Senior Software Engineer • Full-stack Developer</h2>
-<!-- README.md for GitHub profile -->
 
 <h1 align="center">✨ Hey — I'm Divya Shukla 👋</h1>
 
