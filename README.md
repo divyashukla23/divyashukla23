@@ -93,22 +93,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Activity & Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyashukla23&show_icons=true&count_private=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyashukla23&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyashukla23&theme=radical" />
-</p>
-<p align="center">
-  🚀 Senior Software Engineer at <b>Thoughtworks</b> — building scalable APIs, cloud-native data platforms and developer-driven solutions.  
-  🧭 Passionate about system design, DevOps automation, and shipping reliable platforms that empower consumers.
-</p>
-
----
----
-
 <h2 align="center">🤝 Book a 1:1 Consultation</h2>
 
 <p align="center">
