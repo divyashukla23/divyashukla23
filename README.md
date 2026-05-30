@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="[[www.yuno.is/divya_shukla/page/r6DO0Auwvf](https://topmate.io/divya_shukla)](https://topmate.io/divya_shukla)" target="_blank">
+  <a href="https://topmate.io/divya_shukla" target="_blank">
     <img src="https://img.shields.io/badge/Book%20a%201:1%20on-Topmate-1D9BF0?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Topmate Link" />
   </a>
 </p>
